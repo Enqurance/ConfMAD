@@ -1,0 +1,10 @@
+result/*
+draw/
+HelpfulFuncs.py
+test/
+analysis/
+data/
+script.py
+checkpoints/
+.ipynb_checkpoints/
+__pycache__/
